@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+    <string name="department">Département</string>
+    <string name="direct_reports">Rapports directs</string>
+    <string name="email">E-mail</string>
+    <string name="extension">Extension</string>
+    <string name="supervisor">Superviseuse</string>
+</resources>
